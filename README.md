@@ -14,3 +14,5 @@ cd fb-BruteForce
 python2 fb.py
 Masukkan id target
 Masukkan world listny
+
+contak fb https://m.facebook.com/iqbal.ollalaa
